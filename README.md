@@ -17,7 +17,7 @@ Approach:
 Approach:
 - For the top 10 upcoming, check likes on the videos and divide views per video by subscribers, to find out the organic audience and the new audience the video is garnering.
 
-File Name: AI-ML-Top10.ipynb
+**File Name: AI-ML-Top10.ipynb**
 
 *4:* What are the most discussed words in YouTube under each category? In what topics should a YouTuber do research in his category to bring about a new trend in his category?
 
