@@ -51,5 +51,5 @@ Approach:
 
 Approach:
 - Tags to views
-- desc length to views
-- title length to views
+- desc words to views
+- title words to views
