@@ -8,16 +8,16 @@
 - Tanmay Nema
 - Vedarth Kumtekar
 
-## Abstract:
+## Abstract
 
 In today's world, social media has become a vital part of our lives, and YouTube is one of the most popular platforms for video content creators. With over 2 billion monthly active users, YouTube has become a go-to platform for content creators to showcase their talent and reach a larger audience. However, with such a vast amount of content, it becomes challenging to stand out from the crowd and get the required views and subscribers. To overcome these challenges, YouTubers need to optimize their videos to get maximum engagement, views, and subscribers. 
 
-## Problem Statement: 
+## Problem Statement
 
 The challenge for this Problem Statement is for you to explore various aspects of YouTube optimization, including content quality, relevance, watch time, consistency, SEO, engagement, collaborations, analytics, demographics, and social listening. Use your data analysis  skills to analyze the data of 50 Indian YouTubers given to you to determine the reasons behind the increasing growth of certain YouTubers among them and also find the solutions to some analytical questions given to you regarding the given data.
 
 
-## Evaluation Files & Approach:
+## Evaluation Files & Approach
 
 *1:* In what other aspects can a Youtuber drive traffic to grow his channel apart from key tags and descriptive titles, as his/her channel won’t show up in the top videos after a search?
 
