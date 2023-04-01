@@ -33,6 +33,8 @@ Approach:
 Approach: 
 - Map category to upload time and find out the best one.
 
+**File Name: AI_ML_UploadSchedule (1).ipynb**
+
 *3:* On the basis of this dataset, mention the top 10 upcoming YouTubers besides the current top 10 YouTubers.
 
 Approach:
@@ -46,6 +48,8 @@ Approach:
 - Map categories to tags.
 - Map categories to comments (bring back the column)
 - Map category to views.
+
+**File Name: AI-ML-CategoryResearch.ipynb**
 
 *5:* What changes can a Youtuber make in his MetaData (title, tags, description, captions) so that his videos show up in the top searches of Youtube and the channel gets more traffic?
 
