@@ -1,4 +1,4 @@
-# AI/ML Youtube Analysis for DJS-S4DS
+# AI/ML Youtube Analysis Hackathon for DJS-S4DS
 
 ## Team Name: hackstreet
 
