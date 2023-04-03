@@ -1,8 +1,6 @@
 # AI/ML Youtube Analysis Hackathon for DJS-S4DS
 
-## Team Name: hackstreet
-
-## Team Members:
+## Team Members
 - Akshat Dawange
 - Sruti Dutt
 - Tanmay Nema
